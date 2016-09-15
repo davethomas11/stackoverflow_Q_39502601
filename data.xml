@@ -1,0 +1,14 @@
+<GetMainNavResult>
+<mainMenu>
+<mainitem title="Courses" url="~/courses">
+<subitem title="Primary Industries @amp; Science" url="~/courses/primary-ind-science">
+<item title="Agriculture" url="~/courses/primary-ind-science/agriculture"/>
+<item title="Animal Care @amp; Veterinary Nursing" url="~/courses/primary-ind-science/animal-care-veterinary-nursing"/>
+<item title="Aquaculture" url="~/courses/primary-ind-science/aquaculture"/>
+<item title="Conservation @amp; Land Management" url="~/courses/primary-ind-science/conservation-land-management"/>
+<item title="Horticulture" url="~/courses/primary-ind-science/horticulture"/>
+<item title="Science" url="~/courses/primary-ind-science/laboratory-technology"/>
+</subitem>
+</mainitem>
+</mainMenu>
+</GetMainNavResult>
