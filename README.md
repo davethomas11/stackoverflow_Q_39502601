@@ -9,3 +9,8 @@ install it via this command:
 Then run from the project directory via
 
 ```http-server .```
+
+
+Stackoverflow question -> http://stackoverflow.com/questions/39502601/reading-xml-using-jqury-is-not-working/39503143#39503143
+
+Hosted example -> http://stackoverflow.com/questions/39502601/reading-xml-using-jqury-is-not-working/39503143#39503143
