@@ -13,4 +13,4 @@ Then run from the project directory via
 
 Stackoverflow question -> http://stackoverflow.com/questions/39502601/reading-xml-using-jqury-is-not-working/39503143#39503143
 
-Hosted example -> http://stackoverflow.com/questions/39502601/reading-xml-using-jqury-is-not-working/39503143#39503143
+Hosted example -> https://www.daveanthonythomas.com/remote/so39502601/
